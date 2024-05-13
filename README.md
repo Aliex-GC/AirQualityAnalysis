@@ -3,6 +3,7 @@
 > **框架**
 > - 后端框架 Django
 > - 数据库 MySQL
+> - 前端框架 VUE3
 
 > **使用技术**
 > - BeautifulSoup4 爬虫
